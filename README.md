@@ -8,28 +8,19 @@
 
 :raising_hand: Si vous avez des soucis n'hésitez pas à m'appeler. 
  
- ## Exercice 1: Type
+ ## Exercice 1: Calculatrice
  
-Dans cet exercice, vous devez créer des objets de différents types natifs.
+ Dans ce projet, vous devez réaliser une calculatrice en ligne de commande qui vous permettra d'additionner deux nombres ensemble.
 
-Pour valider l'exercice, vous ne devez pas toucher aux noms des variables définis dans le code de départ.
+Déroulé du script
 
-Il suffit de mettre les objets demandés à chaque ligne après le symbole =.
+Le script doit demander à l'utilisateur de saisir deux nombres :
+```python
+>>> Veuillez entrer un premier nombre : 5
+>>> Veuillez entrer un deuxième nombre : 10
+```
+Le script doit ensuite afficher la phrase suivante :
 
-Les valeurs des objets ne sont pas importantes, vous pouvez ainsi mettre n'importe quelle valeur dans les chaînes de caractères, nombres ou booléens, l'important est juste de respecter le type demandé.
-
- 
-## Exercice 2 : Nettoyer le code
-
-Dans cet exercice, vous devez modifier le code pour qu'il ne produise plus d'erreurs et qu'il affiche le texte suivant :
-
-Bonjour tout le monde !
-Je m'appelle Patrick.
-Je dis souvent "la vie est un long fleuve tranquille" quand on s'appelle Patrick.
-Oui, je suis très philosophe.
-
-
-## Exercice 3 : Modification du Projet
-
-Dans cet exercice, vous devez corriger les valeurs des variables a, b, c et d pour que le script ne produise plus d'erreurs.
-
+```bash
+"Le résultat de l'addition du nombre 5 avec le nombre 10 est égal à 15"
+```
