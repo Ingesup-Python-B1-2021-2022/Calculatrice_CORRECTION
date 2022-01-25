@@ -10,9 +10,9 @@
  
  ## Exercice 1: Calculatrice
  
-Dans ce projet, vous devez réaliser une calculatrice en ligne de commande qui vous permettra d'additionner deux nombres ensemble.
+Dans ce projet, dans le fichier `main.py` vous devez réaliser une calculatrice en ligne de commande qui vous permettra d'additionner deux nombres ensemble.
 
-Déroulé du script
+Déroulé du script : 
 
 Le script doit demander à l'utilisateur de saisir deux nombres :
 ```python
