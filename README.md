@@ -1,4 +1,4 @@
-# TP Type - Ynov Python B1
+# TP Calculatrice - Ynov Python B1
 
 :see_no_evil: _**Il s'agit d'un travail autonomne.**_ :speak_no_evil:
 
