@@ -1,4 +1,4 @@
-  def simple_addition(nb1,nb2):
+def simple_addition(nb1,nb2):
   print(f"Le résultat de l'addition du nombre {float(nb1)} avec le nombre {float(nb2)} est égal à {nb1 + nb2}")
 
 def soustraction(nb1,nb2):
